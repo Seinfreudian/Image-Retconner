@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Miku-fier",
+  "name": "Image-Retconner",
   "version": "1.0.0",
-  "description": "Replace all images with Miku pics!",
+  "description": "Replace all images with Tekken/MK pics!",
   "permissions": ["storage", "tabs", "activeTab", "scripting"],
   "action": {
     "default_popup": "layout.html",
